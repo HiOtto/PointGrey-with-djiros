@@ -1,4 +1,5 @@
 #include "camera.h"
+#include <boost/format.hpp>
 
 ptgrey::Camera::Camera( ros::NodeHandle param_nh )
 : pnode( param_nh )
