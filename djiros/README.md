@@ -9,7 +9,8 @@ This is a modified version of [dji-sdk/Onboard-SDK-ROS](https://github.com/dji-s
 * FindEigen.cmake from **ceres-solver** is used. Please resolve it accordingly if you meet some problem about Eigen.
 
 * Remember to install [dji-sdk/Onboard-SDK](https://github.com/dji-sdk/Onboard-SDK). Follow instructions of [DJI-Onboard-SDK Documentation](https://developer.dji.com/onboard-sdk/documentation/sample-doc/sample-setup.html#linux-oes) to install it into the system. 
-**onboard SDK version, Onboard-SDK-3.3**
+
+**NOTICE: onboard SDK version, Onboard-SDK-3.3**
 
 * If you don't need mvBlueFOX synchronization, just [set ENABLE_DJIFOX to false](CMakeLists.txt#L22) to eliminate compile errors about mvBlueFOX drivers. If you need it, please install [the bluefox camera drivers](https://www.matrix-vision.com/USB2.0-single-board-camera-mvbluefox-mlc.html).
 
