@@ -1,5 +1,6 @@
 # djiros
-## onboard SDK version, Onboard-SDK-3.6
+## onboard SDK version, Onboard-SDK-3.3
+https://github.com/dji-sdk/Onboard-SDK-ROS/tree/3.3
 
 # PointGrey Reader
 ## Download code  
