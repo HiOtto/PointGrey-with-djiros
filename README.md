@@ -1,8 +1,21 @@
 # djiros
 ## onboard SDK version, Onboard-SDK-ROS 3.3
+Modified from
 https://github.com/dji-sdk/Onboard-SDK-ROS/tree/3.3
-
+According to 
 https://github.com/dji-sdk/Onboard-SDK/tree/3.3
+
+## Firmware Compatibility
+
+| Aircraft/FC       | Firmware Package Version | Flight Controller Version | OSDK Branch            | Notes                                                                 |
+|-------------------|--------------------------|---------------------------|------------------------|-----------------------------------------------------------------------|
+| **A3/A3 Pro**     | **1.7.1.5**              | **3.2.36.8**              | **OSDK 3.3**           |                                                                       |
+|                   | 1.7.0.5                  | 3.2.15.50                 | OSDK 3.2               |                                                                       |
+|                   | 1.7.0.0                  | 3.2.15.37                 | OSDK 3.2               |                                                                       |
+|                   |                          |                           |                        |                                                                       |
+| **N3**            | **1.7.1.5**              | **3.2.36.8**              | **OSDK 3.3 (Current)** |                                                                       |
+|                   | 1.7.0.0                  | 3.2.15.37                 | OSDK 3.2               |                                                                       |
+
 
 # PointGrey Reader
 ## Download code  
