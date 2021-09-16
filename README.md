@@ -1,5 +1,5 @@
 # djiros
-## onboard SDK version, Onboard-SDK-3.3
+## onboard SDK version, Onboard-SDK-3.6
 
 # PointGrey Reader
 ## Download code  
